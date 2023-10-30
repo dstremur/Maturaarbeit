@@ -3,5 +3,7 @@ Dieses Repository enthält die digitale Version meiner Maturaarbeit, sowie alle 
 
 Da sich Git-Hub an Entwickler und Programmierer richtet, folgt hier eine Anleitung, wie Sie Dateien herunterladen können.
 
+Wenn Sie eine Datei geöffnet haben, können Sie die Datei mit einem Klick auf den Downloadbutton (gelber Pfeil) herunterladen.
 
-![Github Anleitung](https://github.com/dstremur/Maturaarbeit/assets/76773187/81dbd372-0c3a-43af-9db6-9d32cfc48a3c)
+
+![Github Anleitung](https://github.com/dstremur/Maturaarbeit/assets/76773187/c9c1574a-c38e-4fa4-ac5d-ce473b174426)
